@@ -1,4 +1,4 @@
-Objective
+***Objective***
 
 Load two point clouds P and Q from text files
 
@@ -18,7 +18,7 @@ Display the transformation parameters and inlier count
 
 Provide UI buttons to select the registration method and visualization mode
 
- What I Implemented
+***What I Implemented***
 
 A file loader that reads point clouds in the homework format (x, y, z rows).
 
@@ -50,7 +50,7 @@ Translation vector T
 
 Inliers / total points
 
- **Summary**
+ ***Summary***
 
 This project fulfills all homework requirements:
 loading point sets, implementing two registration methods, visualizing original and aligned points, showing movement lines, and displaying transformation parameters inside a functional Unity interface.
