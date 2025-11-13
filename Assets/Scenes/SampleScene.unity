@@ -1874,7 +1874,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::RansacSolver
   iterations: 500
-  inlierThreshold: 0
+  inlierThreshold: 0.3
   seed: 42
   P: []
   Q: []
